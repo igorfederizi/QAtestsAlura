@@ -40,3 +40,9 @@ Um próximo passo à ser executado são os testes de integração, como o própr
 Em uma tela de Login por exemplo, quando clicar em um botão 'Entrar' esperamos receber uma mensagem de confirmação, ou informativa com erro. Neste caso, poderíamos inserir um teste de integração, já que estamos interagindo entre o front end (ao clicar no botão) e com back end (ao enviar e aguardar uma requisição).
 
 Ao topo da nossa pirâmide, o mais custoso em tempo E2E. Este teste realizará toda jornada no front end que o usuário faria para executar determinada rotina. Para esta estapa são utilizadas ferramentas de automação como Cypress.
+
+## Back end
+
+Além do front end, também é importante testar outra camada do sistema, o back end! Mesmo não sendo algo visível em interfaces gráficas como no caso do front, os testes em back end pode adiantar bastante o desenvolvimento, e auxiliar a squad antecipando os testes e documentação das requisições. 
+
+Assim como no front end, podemos desfrutar de ferramentas para nos auxiliar no desenvolvimento destes testes como postman, insomnia, SwaggerUi.
