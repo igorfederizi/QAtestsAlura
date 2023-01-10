@@ -62,3 +62,11 @@ Vejam como cada peça se encaixa, não deixando passar nenhum ponto para fora.
 Aqui listei apenas alguns dos tipos de testes para mobile, mas existem muitos mais, desafio você pesquisar e se aprofundar mais sobre eles!
 
 Test IO, é uma das frameworks que colabora com os testes mobiles.
+
+## Segurança
+
+Não podemos esquecer que todos registros e conjuntos de dados carregados em nossos sistemas são informações importantes. E com estas não podemos permitir que sejam expostas ou que fiquem vulneráveis para consumo indevido ou malicioso.
+
+Para evitar estas situações, existem os testes de segurança, onde por meio dele verificamos o comportamento do software mediante tentativas incorretas de uso. No teste de vulnerabilidade é feita uma varredura de falhas, como erros de armazenamento das informações e configurações.
+
+Outro teste que pode ser realizado é o teste de intrusão, é um teste manual onde o objetivo é buscar até onde um hacker pode oferecer risco à aplicação.
