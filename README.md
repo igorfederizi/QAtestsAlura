@@ -46,3 +46,19 @@ Ao topo da nossa pirâmide, o mais custoso em tempo E2E. Este teste realizará t
 Além do front end, também é importante testar outra camada do sistema, o back end! Mesmo não sendo algo visível em interfaces gráficas como no caso do front, os testes em back end pode adiantar bastante o desenvolvimento, e auxiliar a squad antecipando os testes e documentação das requisições. 
 
 Assim como no front end, podemos desfrutar de ferramentas para nos auxiliar no desenvolvimento destes testes como postman, insomnia, SwaggerUi.
+
+## Mobile
+
+Vamos pular dos monitores para algumas telas menores. Se você achou que os aplicativos mobile não estariam nesta lista, está enganado! Aqui exploraremos algumas dificuldades que no desenvolvimento WEB não são tão críticas. Neste pequeno grande mundo, precisamos estar atentos à testes de compatiblidade, testes de conectividade e testes de performance.
+
+É claro que existem outros testes também muito importantes no dia a dia, mas pontuei estes especificamente por se tratarem do CORE do mobile. Precisamos garantir que o usuários estará navegando no seu sistema operacional correto, logo teste de compatibilidade.
+
+Ahhh, quase me esqueci de ligar o Wi-fi do meu aparelho. Acho que encontramos o teste de conectividade aqui!
+Apesar de parecer simples, este se faz muito importante visto que o usuário também precisa ser notificado sobre qualquer inatividade ou dificuldade de conexão.
+
+O teste de performance nos trará informações que permitirão observar o uso do preocessador, memória e bateria, além de outros componentes, e assim podemos melhorar nosso aplicativo para que o usuário tenha a melhor imersão!
+
+Vejam como cada peça se encaixa, não deixando passar nenhum ponto para fora.
+Aqui listei apenas alguns dos tipos de testes para mobile, mas existem muitos mais, desafio você pesquisar e se aprofundar mais sobre eles!
+
+Test IO, é uma das frameworks que colabora com os testes mobiles.
